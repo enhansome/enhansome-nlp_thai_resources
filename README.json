@@ -1,0 +1,303 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries/Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Thai Character Cluster"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sentiment Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Soundex"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Word Segmentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Part of Speech Tagging (POS Tagging)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Name Entity Recognition"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News Structure Tagging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Syntactic Parsing & Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Word Embedding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Question Answering (Machine Comprehension)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emojification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Corpus and Dataset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dictionaries / Translation Pairs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Downloadable Text Corpus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Query Text Corpus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Parallel Corpus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre-trained Language Models"
+    },
+    {
+      "description": "Thai Text Classification Benchmarks",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wisesight-sentiment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-07T20:43:19Z",
+            "owner": "PyThaiNLP",
+            "repo": "wisesight-sentiment",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wongnai-corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-26T10:19:19Z",
+            "owner": "wongnai",
+            "repo": "wongnai-corpus",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prachathai-67k",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-04-23T12:29:37Z",
+            "owner": "PyThaiNLP",
+            "repo": "prachathai-67k",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "truevoice-intent",
+          "description": "destination",
+          "children": []
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Corpus extractors"
+    },
+    {
+      "description": "https://resources.aiat.or.th/",
+      "items": [],
+      "title": "Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bact",
+          "description": "For suggestions on license words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C4N",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veer66",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bi89",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tchayintr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PureEXE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cstorm125",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wannaphongcom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ekapolc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        }
+      ],
+      "title": "Acknowledgements"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:04.350Z",
+    "original_repository": "kobkrit/nlp_thai_resources",
+    "original_repository_sha": "6df3c67c86b58c6f0bd79b6496c203bcf2e35646",
+    "enhanced_repository": "enhansome/enhansome-nlp_thai_resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Thai NLP Resource with stars"
+  }
+}
