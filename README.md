@@ -130,7 +130,7 @@ Always welcome for pull requests.
 
 | Library | Description                         | Size      | Features                                                                                                                                                                                                                                                                      | License   | Link                                                                                  |
 | ------- | ----------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------- |
-| TALPCo  | TUFS Asian Language Parallel Corpus | 1327 sent | open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian, Thai, Vietnamese and English | CC BY 4.0 | [TALPCo](https://github.com/matbahasa/TALPCo) ⭐ 53 \| 🐛 0 \| 🌐 TeX \| 📅 2023-05-01 |
+| TALPCo  | TUFS Asian Language Parallel Corpus | 1327 sent | open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian, Thai, Vietnamese and English | CC BY 4.0 | [TALPCo](https://github.com/matbahasa/TALPCo) ⭐ 54 \| 🐛 0 \| 🌐 TeX \| 📅 2023-05-01 |
 
 ## Pre-trained Language Models
 
@@ -175,4 +175,4 @@ Always welcome for pull requests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
