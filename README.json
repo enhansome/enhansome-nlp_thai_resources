@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Libraries/Services"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Thai Character Cluster"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sentiment Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Soundex"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Word Segmentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Part of Speech Tagging (POS Tagging)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Name Entity Recognition"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "News Structure Tagging"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Syntactic Parsing & Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Word Embedding"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Question Answering (Machine Comprehension)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Emojification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Corpus and Dataset"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dictionaries / Translation Pairs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Downloadable Text Corpus"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web Query Text Corpus"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Parallel Corpus"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Pre-trained Language Models"
-    },
-    {
       "description": "Thai Text Classification Benchmarks",
       "items": [
         {
@@ -100,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174823035,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-07T20:43:19Z",
             "owner": "PyThaiNLP",
@@ -114,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139097467,
             "language": null,
             "last_commit": "2019-08-26T10:19:19Z",
             "owner": "wongnai",
@@ -128,39 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168957020,
             "language": "Jupyter Notebook",
             "last_commit": "2021-04-23T12:29:37Z",
             "owner": "PyThaiNLP",
             "repo": "prachathai-67k",
             "stars": 17
           }
-        },
-        {
-          "node_type": "item",
-          "title": "truevoice-intent",
-          "description": "destination",
-          "children": []
         }
       ],
       "title": "Benchmarks"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Corpus extractors"
-    },
-    {
-      "description": "https://resources.aiat.or.th/",
-      "items": [],
-      "title": "Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -169,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -183,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -197,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -211,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -225,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -239,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -253,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -267,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -281,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -293,8 +194,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:45:22.311Z",
+    "last_updated": "2026-08-19T12:42:22.366Z",
     "original_repository": "kobkrit/nlp_thai_resources",
+    "original_repository_id": 94662448,
     "original_repository_sha": "6df3c67c86b58c6f0bd79b6496c203bcf2e35646",
     "enhanced_repository": "enhansome/enhansome-nlp_thai_resources",
     "enhanced_repository_description": null,
