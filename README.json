@@ -1,6 +1,588 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JTCC",
+              "description": "Thai Character Cluster Java GPL-3.0 Wittawat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31824955,
+                "language": "Java",
+                "last_commit": "2017-05-30T12:24:58Z",
+                "owner": "wittawatj",
+                "repo": "jtcc",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCC",
+              "description": "Thai Character Cluster Python Apache 2.0 Wannaphong",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61813823,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:05:13Z",
+                "owner": "PyThaiNLP",
+                "repo": "pythainlp",
+                "stars": 1149
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Thai Character Cluster"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sentiment_analysis_thai",
+              "description": "JagerV3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113442528,
+                "language": "Python",
+                "last_commit": "2022-12-07T23:47:00Z",
+                "owner": "JagerV3",
+                "repo": "sentiment_analysis_thai",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sentiment Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyThaiNLP",
+              "description": "Python 3 LK82 + Udom83 Apache 2.0 Korakot, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61813823,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:05:13Z",
+                "owner": "PyThaiNLP",
+                "repo": "pythainlp",
+                "stars": 1149
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Soundex"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chamkho",
+              "description": "Lao/Thai word segmentation Rust LGPL GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 32002346,
+                "language": "Rust",
+                "last_commit": "2023-10-22T11:23:13Z",
+                "owner": "veer66",
+                "repo": "chamkho",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CutKum",
+              "description": "Thai word segmentation with Deep Learning in Tensorflow. RNN. Python 93% F-measure. MIT Pucktada, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90231838,
+                "language": "Python",
+                "last_commit": "2023-12-14T18:30:46Z",
+                "owner": "pucktada",
+                "repo": "cutkum",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CutThai",
+              "description": "Thai word segmentation written in coffee-script Edit Coffee-script MIT Pureexe/cutthai GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54821971,
+                "language": "CoffeeScript",
+                "last_commit": "2018-01-07T09:24:34Z",
+                "owner": "pureexe",
+                "repo": "cutthai",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepCut",
+              "description": "A Thai word tokenization library using Deep Neural Network. CNN. Python 98.8% F-measure. MIT rkcosmos, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95091660,
+                "language": "Python",
+                "last_commit": "2020-10-23T10:36:02Z",
+                "owner": "rkcosmos",
+                "repo": "deepcut",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lexto",
+              "description": "Python 2 LGPL GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19826362,
+                "language": "Java",
+                "last_commit": "2016-09-21T13:44:40Z",
+                "owner": "Remixman",
+                "repo": "PythonLexTo",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lexto",
+              "description": "Python 3 LGPL GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68820056,
+                "language": "Java",
+                "last_commit": "2016-09-21T13:40:30Z",
+                "owner": "c4n",
+                "repo": "PythonLexTo",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Candidate-Word-Segmentation",
+              "description": "Multi Candidate Word Segmentation for Thai language Python, RNN, LSTM 97.0% F-measure (Word Level), 98.95% F-measure (Boundary Level) MIT paper, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133158679,
+                "language": "Python",
+                "last_commit": "2019-08-26T07:15:43Z",
+                "owner": "earthy123",
+                "repo": "Multi-Candidate-Word-Segmentation",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyThaiNLP",
+              "description": "Python 3 Maximal matching and various other engines Apache 2.0 GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61813823,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:05:13Z",
+                "owner": "PyThaiNLP",
+                "repo": "pythainlp",
+                "stars": 1149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SynThai",
+              "description": "Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. Python 99.2% F-measure MIT KenjiroAI, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83224443,
+                "language": "Python",
+                "last_commit": "2017-05-26T00:29:34Z",
+                "owner": "KrakenAI",
+                "repo": "SynThai",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wordcut",
+              "description": "Thai word breaker for Node.js JavaScript, Node.JS LGPL-3.0 veer66, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16458499,
+                "language": "JavaScript",
+                "last_commit": "2021-08-04T13:57:03Z",
+                "owner": "veer66",
+                "repo": "wordcut",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wordcutpy",
+              "description": "A simple Thai word tokenizer written in 1 Python file Python 3 LGPL-3.0 veer66, GitHub",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43257294,
+                "language": "Python",
+                "last_commit": "2023-07-04T06:52:03Z",
+                "owner": "veer66",
+                "repo": "wordcutpy",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Word Segmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jitar+NAiST",
+              "description": "A simple Trigram HMM part-of-speech tagger Java Ver66, Jitar + NAiST, 1 + NAiST, 2",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 746655,
+                "language": "Java",
+                "last_commit": "2016-01-08T08:52:01Z",
+                "owner": "danieldk",
+                "repo": "jitar",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SynThai",
+              "description": "Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. Python 0.9163 F-measure. RNN. LSTM MIT KenjiroAI, github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83224443,
+                "language": "Python",
+                "last_commit": "2017-05-26T00:29:34Z",
+                "owner": "KrakenAI",
+                "repo": "SynThai",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Part of Speech Tagging (POS Tagging)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ThaiNER",
+              "description": "Thai Named Entity Recognition for PyThaiNLP Python Apache 2.0 (code) & CC BY 3.0 (Dataset) ThaiNER",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146010437,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-22T19:07:08Z",
+                "owner": "wannaphong",
+                "repo": "thai-ner",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Name Entity Recognition"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Grammar Processing",
+              "description": "Labelled Brackets -> Context Free Grammars (CFGs) Python Transform and compute probability tchayintr",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91593326,
+                "language": "Python",
+                "last_commit": "2017-05-17T16:30:11Z",
+                "owner": "tchayintr",
+                "repo": "simple-pcfgrammar",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Syntactic Parsing & Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kobkrit-word-embedding",
+              "description": "Tensorflow implementation of Thai word embedding Python Source code, Example, Word distance graph LGPL Kobkrit V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94513895,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-06-16T06:51:08Z",
+                "owner": "kobkrit",
+                "repo": "tf-nlp-thai-word-embedding",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Word Embedding"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Thai Emotification",
+              "description": "LSTM GPL Demo at iApp-AI and Source, Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147906719,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-09-12T17:00:38Z",
+                "owner": "kobkrit",
+                "repo": "thai-emojification",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emojification"
+        }
+      ],
+      "title": "Libraries/Services"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yaitron",
+              "description": "LEXiTRON in machine readable format (XML) TH->EN, EN->TH LEXiTRON License Veer66 Schema, Data & Conversion Code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5316589,
+                "language": "Python",
+                "last_commit": "2020-10-13T06:48:33Z",
+                "owner": "veer66",
+                "repo": "Yaitron",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dictionaries / Translation Pairs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Click Bait Sentences",
+              "description": "Thai Click Bait Sentence 330 sent. (90.7KB) MIT Wannaphongcom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78909759,
+                "language": "Python",
+                "last_commit": "2024-02-13T06:46:54Z",
+                "owner": "PyThaiNLP",
+                "repo": "lexicon-thai",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prime Minister 29",
+              "description": "Prime Minister 29's Speech Sentences 338KB Word segged, Name Entity Tagged MIT Wannaphongcom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78909759,
+                "language": "Python",
+                "last_commit": "2024-02-13T06:46:54Z",
+                "owner": "PyThaiNLP",
+                "repo": "lexicon-thai",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thai-jokes-corpus",
+              "description": "Cleaned Thai Jokes Corpus 457 jokes GPLv3 iApp Technology",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208560083,
+                "language": null,
+                "last_commit": "2019-09-25T04:02:32Z",
+                "owner": "iapp-technology",
+                "repo": "thai-joke-corpus",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Thai Sentimental Word List",
+              "description": "Thai Sentimental Words List 52KB Seperated Words as Adj, V MIT Wannaphongcom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78909759,
+                "language": "Python",
+                "last_commit": "2024-02-13T06:46:54Z",
+                "owner": "PyThaiNLP",
+                "repo": "lexicon-thai",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toxicity in Thai Tweet Corpus",
+              "description": "Tokyo Metropolitan University Natural Language Processing Group Each tweet is labeled as toxic or non-toxic CC BY-NC 4.0 tmu-nlp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122472809,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-12-14T02:46:04Z",
+                "owner": "tmu-nlp",
+                "repo": "ThaiToxicityTweetCorpus",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wisesight Sentiment Corpus",
+              "description": "Social media message with sentiment label (positive, neutral, negative, question). ~26,700 messages Sentiment label, Question label Public domain PyThaiNLP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174823035,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-07T20:43:19Z",
+                "owner": "PyThaiNLP",
+                "repo": "wisesight-sentiment",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Downloadable Text Corpus"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TALPCo",
+              "description": "TUFS Asian Language Parallel Corpus 1327 sent open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian, Thai, Vietnamese and English CC BY 4.0 TALPCo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115870577,
+                "language": "TeX",
+                "last_commit": "2023-05-01T13:04:42Z",
+                "owner": "matbahasa",
+                "repo": "TALPCo",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parallel Corpus"
+        }
+      ],
+      "title": "Corpus and Dataset"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fastText",
+          "description": "Skip-Gram model trained on Wikipedia using fastText 300 CC BY-SA 3.0 Facebook + Bin & Text + Text Only",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 63484632,
+            "language": "HTML",
+            "last_commit": "2024-03-22T21:40:44Z",
+            "owner": "facebookresearch",
+            "repo": "fastText",
+            "stars": 26537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thai2fit",
+          "description": "ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. 70MB 300 MIT thai2vec / PyThaiNLP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118903394,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-09T14:29:57Z",
+            "owner": "cstorm125",
+            "repo": "thai2fit",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thbert",
+          "description": "Yet another pre-trained BERT particularly in Thai Apache 2.0 tchayintr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257479180,
+            "language": "Python",
+            "last_commit": "2020-05-06T14:45:57Z",
+            "owner": "tchayintr",
+            "repo": "thbert",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Pre-trained Language Models"
+    },
+    {
       "description": "Thai Text Classification Benchmarks",
       "items": [
         {
@@ -194,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:48:17.204Z",
+    "last_updated": "2026-08-24T14:29:46.903Z",
     "original_repository": "kobkrit/nlp_thai_resources",
     "original_repository_id": 94662448,
     "original_repository_sha": "6df3c67c86b58c6f0bd79b6496c203bcf2e35646",
