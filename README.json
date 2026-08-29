@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java library to tokenize Thai text into a list of TCCs",
+                "homepage": null,
                 "id": 31824955,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2017-05-30T12:24:58Z",
+                "open_issues": 2,
                 "owner": "wittawatj",
                 "repo": "jtcc",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "java",
+                  "natural-language-processing",
+                  "thai-nlp"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -28,12 +37,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai natural language processing in Python",
+                "homepage": "https://pythainlp.org/",
                 "id": 61813823,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:56:52Z",
+                "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1149
+                "stars": 1149,
+                "topics": [
+                  "computational-linguistics",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "natural-language-processing",
+                  "nlp-library",
+                  "python",
+                  "soundex",
+                  "text-processing",
+                  "thai",
+                  "thai-language",
+                  "thai-nlp",
+                  "thai-nlp-library",
+                  "thai-soundex",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -51,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 113442528,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-07T23:47:00Z",
+                "open_issues": 10,
                 "owner": "JagerV3",
                 "repo": "sentiment_analysis_thai",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -74,12 +108,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai natural language processing in Python",
+                "homepage": "https://pythainlp.org/",
                 "id": 61813823,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:56:52Z",
+                "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1149
+                "stars": 1149,
+                "topics": [
+                  "computational-linguistics",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "natural-language-processing",
+                  "nlp-library",
+                  "python",
+                  "soundex",
+                  "text-processing",
+                  "thai",
+                  "thai-language",
+                  "thai-nlp",
+                  "thai-nlp-library",
+                  "thai-soundex",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -97,12 +151,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Khmer, Lao, Myanmar, and Thai word segmentation/breaking library and command line",
+                "homepage": null,
                 "id": 32002346,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-22T11:23:13Z",
+                "open_issues": 2,
                 "owner": "veer66",
                 "repo": "chamkho",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -113,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai Word-Segmentation with LSTM in Tensorflow",
+                "homepage": null,
                 "id": 90231838,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-14T18:30:46Z",
+                "open_issues": 6,
                 "owner": "pucktada",
                 "repo": "cutkum",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -129,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai word segmentation written in coffee-script",
+                "homepage": null,
                 "id": 54821971,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2018-01-07T09:24:34Z",
+                "open_issues": 0,
                 "owner": "pureexe",
                 "repo": "cutthai",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -145,12 +214,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Thai word tokenization library using Deep Neural Network",
+                "homepage": null,
                 "id": 95091660,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-23T10:36:02Z",
+                "open_issues": 7,
                 "owner": "rkcosmos",
                 "repo": "deepcut",
-                "stars": 428
+                "stars": 428,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "keras",
+                  "keras-tensorflow",
+                  "python",
+                  "segmentation",
+                  "tensorflow",
+                  "thai"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -161,12 +244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LexTo (Thai word segmentator) with Python Wrapper",
+                "homepage": null,
                 "id": 19826362,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-09-21T13:44:40Z",
+                "open_issues": 1,
                 "owner": "Remixman",
                 "repo": "PythonLexTo",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -177,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LexTo (Thai word segmentator) with Python Wrapper (Python 3)",
+                "homepage": null,
                 "id": 68820056,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-09-21T13:40:30Z",
+                "open_issues": 0,
                 "owner": "c4n",
                 "repo": "PythonLexTo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -193,12 +286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 133158679,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-08-26T07:15:43Z",
+                "open_issues": 1,
                 "owner": "earthy123",
                 "repo": "Multi-Candidate-Word-Segmentation",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -209,12 +307,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai natural language processing in Python",
+                "homepage": "https://pythainlp.org/",
                 "id": 61813823,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:56:52Z",
+                "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1149
+                "stars": 1149,
+                "topics": [
+                  "computational-linguistics",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "natural-language-processing",
+                  "nlp-library",
+                  "python",
+                  "soundex",
+                  "text-processing",
+                  "thai",
+                  "thai-language",
+                  "thai-nlp",
+                  "thai-nlp-library",
+                  "thai-soundex",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -225,12 +343,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning",
+                "homepage": null,
                 "id": 83224443,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-05-26T00:29:34Z",
+                "open_issues": 0,
                 "owner": "KrakenAI",
                 "repo": "SynThai",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "deep-learning",
+                  "pos-tagging",
+                  "recurrent-neural-networks",
+                  "thai-nlp",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -241,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai word breaker for Node.js",
+                "homepage": null,
                 "id": 16458499,
                 "language": "JavaScript",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-08-04T13:57:03Z",
+                "open_issues": 8,
                 "owner": "veer66",
                 "repo": "wordcut",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -257,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple word breaker written in Python",
+                "homepage": null,
                 "id": 43257294,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-04T06:52:03Z",
+                "open_issues": 2,
                 "owner": "veer66",
                 "repo": "wordcutpy",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -280,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Jitar HMM part of speech tagger",
+                "homepage": null,
                 "id": 746655,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-01-08T08:52:01Z",
+                "open_issues": 2,
                 "owner": "danieldk",
                 "repo": "jitar",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -296,12 +440,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning",
+                "homepage": null,
                 "id": 83224443,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-05-26T00:29:34Z",
+                "open_issues": 0,
                 "owner": "KrakenAI",
                 "repo": "SynThai",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "deep-learning",
+                  "pos-tagging",
+                  "recurrent-neural-networks",
+                  "thai-nlp",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -319,12 +474,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai Named Entity Recognition",
+                "homepage": null,
                 "id": 146010437,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-22T19:07:08Z",
+                "open_issues": 0,
                 "owner": "wannaphong",
                 "repo": "thai-ner",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "named-entity-recognition",
+                  "pythainlp",
+                  "thai-nlp",
+                  "thai-nlp-library"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -342,12 +507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple PCFG extraction",
+                "homepage": null,
                 "id": 91593326,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-05-17T16:30:11Z",
+                "open_issues": 0,
                 "owner": "tchayintr",
                 "repo": "simple-pcfgrammar",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -365,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow NLP, Thai Word Embedding",
+                "homepage": null,
                 "id": 94513895,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-06-16T06:51:08Z",
+                "open_issues": 0,
                 "owner": "kobkrit",
                 "repo": "tf-nlp-thai-word-embedding",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -388,12 +563,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emojification of Thai Text, Using Deep Learning (LSTM)",
+                "homepage": "http://ai.iapp.co.th/emojify",
                 "id": 147906719,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2018-09-12T17:00:38Z",
+                "open_issues": 0,
                 "owner": "kobkrit",
                 "repo": "thai-emojification",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "deep-learning",
+                  "emoji",
+                  "emojification",
+                  "emojify",
+                  "lstm",
+                  "nlp",
+                  "thai"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -417,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Yaitron English-Thai and Thai-English dictionary",
+                "homepage": null,
                 "id": 5316589,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-13T06:48:33Z",
+                "open_issues": 1,
                 "owner": "veer66",
                 "repo": "Yaitron",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -440,12 +633,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "คลังศัพท์ภาษาไทย",
+                "homepage": null,
                 "id": 78909759,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-13T06:46:54Z",
+                "open_issues": 0,
                 "owner": "PyThaiNLP",
                 "repo": "lexicon-thai",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "corpus",
+                  "lexicon-thai",
+                  "thai-language"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -456,12 +658,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "คลังศัพท์ภาษาไทย",
+                "homepage": null,
                 "id": 78909759,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-13T06:46:54Z",
+                "open_issues": 0,
                 "owner": "PyThaiNLP",
                 "repo": "lexicon-thai",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "corpus",
+                  "lexicon-thai",
+                  "thai-language"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -472,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cleaned Thai Jokes Corpus",
+                "homepage": null,
                 "id": 208560083,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-09-25T04:02:32Z",
+                "open_issues": 0,
                 "owner": "iapp-technology",
                 "repo": "thai-joke-corpus",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -488,12 +704,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "คลังศัพท์ภาษาไทย",
+                "homepage": null,
                 "id": 78909759,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-13T06:46:54Z",
+                "open_issues": 0,
                 "owner": "PyThaiNLP",
                 "repo": "lexicon-thai",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "corpus",
+                  "lexicon-thai",
+                  "thai-language"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -504,12 +729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 122472809,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-12-14T02:46:04Z",
+                "open_issues": 0,
                 "owner": "tmu-nlp",
                 "repo": "ThaiToxicityTweetCorpus",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             },
@@ -520,12 +750,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thai social media text sentiment dataset",
+                "homepage": null,
                 "id": 174823035,
                 "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
                 "last_commit": "2024-11-07T20:43:19Z",
+                "open_issues": 0,
                 "owner": "PyThaiNLP",
                 "repo": "wisesight-sentiment",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "classification",
+                  "corpus",
+                  "sentiment-analysis",
+                  "thai",
+                  "tokenization"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -543,12 +784,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUFS Asian Language Parallel Corpus",
+                "homepage": null,
                 "id": 115870577,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-05-01T13:04:42Z",
+                "open_issues": 0,
                 "owner": "matbahasa",
                 "repo": "TALPCo",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "addressee",
+                  "bahasa-indonesia",
+                  "bahasa-melayu",
+                  "burmese",
+                  "constituency-tree",
+                  "english",
+                  "indonesian",
+                  "interpersonal",
+                  "japanese",
+                  "javanese",
+                  "korean",
+                  "malay",
+                  "meaning",
+                  "myanmar",
+                  "parallel-corpus",
+                  "thai",
+                  "tiengviet",
+                  "tokenized-sentences",
+                  "treebank",
+                  "vietnamese"
+                ]
               },
               "first_seen": "2026-08-28T21:27:27.292Z"
             }
@@ -570,12 +837,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Library for fast text representation and classification.",
+            "homepage": "https://fasttext.cc/",
             "id": 63484632,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-03-22T21:40:44Z",
+            "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26534
+            "stars": 26534,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -586,12 +858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ULMFit Language Modeling, Text Feature Extraction and Text Classification in Thai Language. Created as part of pyThaiNLP",
+            "homepage": null,
             "id": 118903394,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-01-09T14:29:57Z",
+            "open_issues": 1,
             "owner": "cstorm125",
             "repo": "thai2fit",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -602,12 +879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another pre-trained BERT particularly in Thai",
+            "homepage": null,
             "id": 257479180,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-06T14:45:57Z",
+            "open_issues": 0,
             "owner": "tchayintr",
             "repo": "thbert",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         }
@@ -624,12 +906,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thai social media text sentiment dataset",
+            "homepage": null,
             "id": 174823035,
             "language": "Jupyter Notebook",
+            "license": "CC0-1.0",
             "last_commit": "2024-11-07T20:43:19Z",
+            "open_issues": 0,
             "owner": "PyThaiNLP",
             "repo": "wisesight-sentiment",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "classification",
+              "corpus",
+              "sentiment-analysis",
+              "thai",
+              "tokenization"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -640,12 +933,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Wongnai's datasets",
+            "homepage": null,
             "id": 139097467,
             "language": null,
+            "license": "LGPL-3.0",
             "last_commit": "2019-08-26T10:19:19Z",
+            "open_issues": 0,
             "owner": "wongnai",
             "repo": "wongnai-corpus",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "datasets",
+              "nlp",
+              "nlp-machine-learning",
+              "tokenization"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -656,12 +959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "News Article Corpus from Prachathai.com",
+            "homepage": null,
             "id": 168957020,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-23T12:29:37Z",
+            "open_issues": 1,
             "owner": "PyThaiNLP",
             "repo": "prachathai-67k",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         }
@@ -678,12 +986,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -694,12 +1014,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -710,12 +1042,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -726,12 +1070,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -742,12 +1098,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -758,12 +1126,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -774,12 +1154,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -790,12 +1182,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         },
@@ -806,12 +1210,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
         }
@@ -820,15 +1236,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:27:27.292Z",
+    "last_updated": "2026-08-29T04:50:44.675Z",
     "original_repository_info": {
       "archived": false,
+      "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+      "homepage": null,
       "id": 94662448,
       "language": null,
+      "license": null,
       "last_commit": "2023-04-09T11:28:14Z",
+      "open_issues": 7,
       "owner": "kobkrit",
       "repo": "nlp_thai_resources",
-      "stars": 394
+      "stars": 394,
+      "topics": [
+        "awesome-list",
+        "nlp",
+        "nlp-thai-resource",
+        "thai-language",
+        "thai-nlp",
+        "thai-nlp-library"
+      ]
     },
     "original_repository_sha": "6df3c67c86b58c6f0bd79b6496c203bcf2e35646",
     "enhanced_repository": "enhansome/enhansome-nlp_thai_resources",
