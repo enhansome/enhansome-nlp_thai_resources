@@ -46,7 +46,7 @@
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -117,7 +117,7 @@
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -316,7 +316,7 @@
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1149,
+                "stars": 1150,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:44.675Z",
+    "last_updated": "2026-08-29T15:40:09.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
