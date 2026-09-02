@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "wittawatj",
                 "repo": "jtcc",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "java",
                   "natural-language-processing",
@@ -46,7 +46,7 @@
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -117,7 +117,7 @@
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -316,7 +316,7 @@
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -846,7 +846,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26534,
+            "stars": 26532,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:28:57.335Z",
+    "last_updated": "2026-09-02T15:08:46.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
