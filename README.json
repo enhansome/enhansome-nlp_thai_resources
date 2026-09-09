@@ -42,11 +42,11 @@
                 "id": 61813823,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T18:50:10Z",
+                "last_commit": "2026-09-08T17:28:39Z",
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1152,
+                "stars": 1151,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -113,11 +113,11 @@
                 "id": 61813823,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T18:50:10Z",
+                "last_commit": "2026-09-08T17:28:39Z",
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1152,
+                "stars": 1151,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -312,11 +312,11 @@
                 "id": 61813823,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T18:50:10Z",
+                "last_commit": "2026-09-08T17:28:39Z",
                 "open_issues": 31,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1152,
+                "stars": 1151,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:10:35.207Z",
+    "last_updated": "2026-09-09T15:10:12.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
