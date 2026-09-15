@@ -46,7 +46,7 @@
                 "open_issues": 35,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1152,
+                "stars": 1154,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -117,7 +117,7 @@
                 "open_issues": 35,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1152,
+                "stars": 1154,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -316,7 +316,7 @@
                 "open_issues": 35,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
-                "stars": 1152,
+                "stars": 1154,
                 "topics": [
                   "computational-linguistics",
                   "hacktoberfest",
@@ -995,7 +995,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1023,7 +1023,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1051,7 +1051,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1079,7 +1079,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1107,7 +1107,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1135,7 +1135,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1163,7 +1163,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1191,7 +1191,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1219,7 +1219,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:59:05.958Z",
+    "last_updated": "2026-09-15T15:36:30.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
@@ -1248,7 +1248,7 @@
       "open_issues": 7,
       "owner": "kobkrit",
       "repo": "nlp_thai_resources",
-      "stars": 393,
+      "stars": 394,
       "topics": [
         "awesome-list",
         "nlp",
