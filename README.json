@@ -43,7 +43,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T19:14:02Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
                 "stars": 1156,
@@ -114,7 +114,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T19:14:02Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
                 "stars": 1156,
@@ -313,7 +313,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T19:14:02Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
                 "stars": 1156,
@@ -846,7 +846,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26528,
+            "stars": 26527,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:51:01.959Z",
+    "last_updated": "2026-09-26T14:59:53.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
