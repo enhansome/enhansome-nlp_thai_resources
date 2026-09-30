@@ -846,7 +846,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26526,
+            "stars": 26524,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:27.292Z"
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:55:41.991Z",
+    "last_updated": "2026-09-30T16:51:12.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
