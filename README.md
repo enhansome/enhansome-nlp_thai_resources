@@ -163,16 +163,16 @@ Always welcome for pull requests.
 
 ## Acknowledgements
 
-* [bact](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bact) ⭐ 395 | 🐛 7 | 📅 2023-04-09 - For suggestions on license words.
-* [C4N](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=c4n) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [Veer66](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [Bi89](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bi89) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [Tchayintr](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=tchayintr) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [PureEXE](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=pureexe) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [Cstorm125](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=cstorm125) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [Wannaphongcom](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=wannaphongcom) ⭐ 395 | 🐛 7 | 📅 2023-04-09
-* [Ekapolc](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=ekapolc) ⭐ 395 | 🐛 7 | 📅 2023-04-09
+* [bact](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bact) - For suggestions on license words.
+* [C4N](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=c4n)
+* [Veer66](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66)
+* [Bi89](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bi89)
+* [Tchayintr](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=tchayintr)
+* [PureEXE](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=pureexe)
+* [Cstorm125](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=cstorm125)
+* [Wannaphongcom](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=wannaphongcom)
+* [Ekapolc](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=ekapolc)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
