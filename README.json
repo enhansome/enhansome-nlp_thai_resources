@@ -220,7 +220,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2020-10-23T10:36:02Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "rkcosmos",
                 "repo": "deepcut",
                 "stars": 426,
@@ -978,7 +978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:49:46.917Z",
+    "last_updated": "2026-11-06T18:06:16.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
