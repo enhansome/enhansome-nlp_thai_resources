@@ -223,7 +223,7 @@
                 "open_issues": 6,
                 "owner": "rkcosmos",
                 "repo": "deepcut",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -978,7 +978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:29:19.350Z",
+    "last_updated": "2026-11-10T18:42:49.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
