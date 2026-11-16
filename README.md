@@ -137,7 +137,7 @@ Always welcome for pull requests.
 | Pre-trained Model | Description                                                         | Size | Dimensions | License      | Link                                                                                                                                                                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------- | ---- | ---------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | fastText          | Skip-Gram model trained on Wikipedia using fastText                 |      | 300        | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) ⚠️ Archived + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec) |
-| thai2fit          | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. | 70MB | 300        | MIT          | [thai2vec](https://github.com/cstorm125/thai2fit) ⭐ 193 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2021-01-09 / [PyThaiNLP](https://github.com/PyThaiNLP/)                                                                                                                  |
+| thai2fit          | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. | 70MB | 300        | MIT          | [thai2vec](https://github.com/cstorm125/thai2fit) ⭐ 192 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2021-01-09 / [PyThaiNLP](https://github.com/PyThaiNLP/)                                                                                                                  |
 | thbert            | Yet another pre-trained BERT particularly in Thai                   |      |            | Apache 2.0   | [tchayintr](https://github.com/tchayintr/thbert) ⭐ 6 \| 🐛 0 \| 🌐 Python \| 📅 2020-05-06                                                                                                                                                                            |
 
 ## Benchmarks
@@ -175,4 +175,4 @@ Always welcome for pull requests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
