@@ -42,7 +42,7 @@
                 "id": 61813823,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T12:41:46Z",
+                "last_commit": "2026-11-19T16:52:12Z",
                 "open_issues": 24,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
@@ -113,7 +113,7 @@
                 "id": 61813823,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T12:41:46Z",
+                "last_commit": "2026-11-19T16:52:12Z",
                 "open_issues": 24,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
@@ -312,7 +312,7 @@
                 "id": 61813823,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T12:41:46Z",
+                "last_commit": "2026-11-19T16:52:12Z",
                 "open_issues": 24,
                 "owner": "PyThaiNLP",
                 "repo": "pythainlp",
@@ -978,7 +978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:26:41.464Z",
+    "last_updated": "2026-11-19T19:31:10.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
