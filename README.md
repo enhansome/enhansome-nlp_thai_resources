@@ -22,7 +22,7 @@ Always welcome for pull requests.
 
 | Library              | Description                                                                                 | Programming Languages | Features                                                                                                                                                                    | License                                                        | Author & Link                                                                                                       |
 | -------------------- | ------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| TER-AI intent router | Offline-first Thai and Thai-English intent routing with typo-tolerant matching (15 intents) | Python 3.11+          | CPU-only; no runtime dependencies; latest release [v0.18.3](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.3) ⭐ 3 \| 🐛 7 \| 🌐 Python \| 📅 2026-11-22 | Code MIT; Wayu-Paxa-TTS-Edge weights (TTS module) CC-BY-NC-4.0 | Klanarongz2009, [GitHub](https://github.com/klanarongz2009-sketch/ter-ai) ⭐ 3 \| 🐛 7 \| 🌐 Python \| 📅 2026-11-22 |
+| TER-AI intent router | Offline-first Thai and Thai-English intent routing with typo-tolerant matching (15 intents) | Python 3.11+          | CPU-only; no runtime dependencies; latest release [v0.18.3](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.3) ⭐ 2 \| 🐛 7 \| 🌐 Python \| 📅 2026-11-22 | Code MIT; Wayu-Paxa-TTS-Edge weights (TTS module) CC-BY-NC-4.0 | Klanarongz2009, [GitHub](https://github.com/klanarongz2009-sketch/ter-ai) ⭐ 2 \| 🐛 7 \| 🌐 Python \| 📅 2026-11-22 |
 
 ### Soundex
 
@@ -182,4 +182,4 @@ Always welcome for pull requests.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
